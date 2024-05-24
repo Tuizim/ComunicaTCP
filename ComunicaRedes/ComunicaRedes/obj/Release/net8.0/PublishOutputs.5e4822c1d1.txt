@@ -1,0 +1,4 @@
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Cliente\ComunicaRedes.exe
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Cliente\ComunicaRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Cliente\ComunicaRedes.deps.json
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Cliente\ComunicaRedes.runtimeconfig.json

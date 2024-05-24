@@ -1,0 +1,12 @@
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\bin\Debug\net8.0\ServerRedes.exe
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\bin\Debug\net8.0\ServerRedes.deps.json
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\bin\Debug\net8.0\ServerRedes.runtimeconfig.json
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\bin\Debug\net8.0\ServerRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ServerRedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ServerRedes.AssemblyInfoInputs.cache
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ServerRedes.AssemblyInfo.cs
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ServerRedes.csproj.CoreCompileInputs.cache
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ServerRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\refint\ServerRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ServerRedes.genruntimeconfig.cache
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ServerRedes\ServerRedes\obj\Debug\net8.0\ref\ServerRedes.dll

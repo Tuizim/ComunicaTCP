@@ -1,0 +1,4 @@
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Server\ServerRedes.exe
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Server\ServerRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Server\ServerRedes.deps.json
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\EXE\Server\ServerRedes.runtimeconfig.json

@@ -1,0 +1,12 @@
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\bin\Debug\net8.0\ComunicaRedes.exe
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\bin\Debug\net8.0\ComunicaRedes.deps.json
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\bin\Debug\net8.0\ComunicaRedes.runtimeconfig.json
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\bin\Debug\net8.0\ComunicaRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ComunicaRedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ComunicaRedes.AssemblyInfoInputs.cache
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ComunicaRedes.AssemblyInfo.cs
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ComunicaRedes.csproj.CoreCompileInputs.cache
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ComunicaRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\refint\ComunicaRedes.dll
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ComunicaRedes.genruntimeconfig.cache
+C:\Users\Tuizim\Documents\Projetos\C#\Faculdade\ComunicaRedes\ComunicaRedes\obj\Debug\net8.0\ref\ComunicaRedes.dll
